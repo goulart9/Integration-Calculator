@@ -1,0 +1,2 @@
+# Integration-Calculator
+Project for Integrated Engineering Calculus II. Calculates the Riemann Sum using the Midpoint method, Trapezoidal method, Simpson's method, and the Fundamental Theorem of Calculus. The user supplies the program with the lower limit, upper limit, number of rectangles, and the coefficients for up to a 5th degree polynomial. It will also calculate the error for each method except for the Fundamental Theorem method.
